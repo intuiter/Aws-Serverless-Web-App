@@ -1,4 +1,4 @@
-                                               Serverless Web Application Hosting
+                                              Serverless Web Application Hosting 
 
 **Architectural Diagram flow of stages/process involved in Web application functionality:**
 
